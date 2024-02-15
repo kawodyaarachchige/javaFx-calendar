@@ -12,7 +12,7 @@ Welcome to the JavaFX Calendar App, a dynamic and interactive calendar built usi
 
 ## Screenshots
 
-![App Screenshot](https://i.imgur.com/RHVDK7d.png)
+![App Screenshot](https://imgur.com/TYY9mt8.png)
 
 © 2024 All Right Reserved Designed By Tharushi Kawodya
 This project is licensed under the MIT license.
